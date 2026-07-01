@@ -1,4 +1,4 @@
-package basics;
+package Basics;
 
 public class StringDataType {
     public static void main(String[] args) {
